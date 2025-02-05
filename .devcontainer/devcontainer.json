@@ -1,0 +1,5 @@
+{
+    "postCreateCommand": "/bin/bash ./.devcontainer/startup.sh",
+    "forwardPorts": [8000]
+  }
+  
